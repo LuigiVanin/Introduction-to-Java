@@ -68,15 +68,13 @@ structure for our first project:
 
 ```
 ├── src 📂
-|   └─── Program.java ☕
-|
-└────── utils 📂
-         └────── Guesser.java
-         └────── Result.java
-
+    ├── Program.java ☕
+    └─── utils 📂
+         └─── Guesser.java
+         └─── Result.java
 ```
 
 The project that we are creating is a very simple program in Java that is a guessing game.
 To play the game the player has to insert an integer value on the prompt,
 if the guess is equal to the value generated at the start of the program the user win
-and the program ends, if the value is incorrect the user has to insert another value until it is the currect one.
+and the program ends, if the value is incorrect the user has to insert another value until it is the correct one.
