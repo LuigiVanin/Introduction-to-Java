@@ -78,3 +78,33 @@ The project that we are creating is a very simple program in Java that is a gues
 To play the game the player has to insert an integer value on the prompt,
 if the guess is equal to the value generated at the start of the program the user win
 and the program ends, if the value is incorrect the user has to insert another value until it is the correct one.
+
+## Running The Program 🚀
+
+```bash
+> javac -d target/ -sourcepath src/ src/Program.java
+> cd target/
+> java Program
+```
+
+
+## Ferramentas Utilizadas 🛠️
+
+<p align="center">
+    
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+    
+</p>
+
+
+## Entre em contato 📞
+
+<p align="center">
+<a href="https://www.linkedin.com/in/luis-felipe-vanin-martins-5a5b38215">
+<img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue">
+</a>
+<a href="mailto:luisfvanin2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail:%20luisfvanin2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
